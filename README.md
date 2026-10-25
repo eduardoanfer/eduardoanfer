@@ -98,15 +98,6 @@ Engenheiro de Software e Desenvolvedor Full Stack com 5 anos de experiência no 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eduardoanfer&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoanfer&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 📫 Vamos conversar?
 
 <p>
