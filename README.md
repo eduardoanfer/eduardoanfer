@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Eduardo Andrade 👋</h1>
-<h3 align="center">Engenheiro de Software | Desenvolvedor Full Stack (.NET & Angular)|Php| UX/UI | Cloud Azure| Docker & Virtualização & IA</h3>
+<h3 align="center">Engenheiro de Software | Desenvolvedor Full Stack (.NET & Angular)|Php| UX/UI | Cloud Azure| Docker | Virtualização & IA</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eduardoanfer&label=Visitas&color=blue&style=flat" alt="visitas" />
