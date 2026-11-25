@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Eduardo Andrade 👋</h1>
-<h3 align="center">Engenheiro de Software | Desenvolvedor Full Stack (.NET & Angular) | UX/UI | Cloud Azure & IA</h3>
+<h3 align="center">Engenheiro de Software | Desenvolvedor Full Stack (.NET & Angular)|Php| UX/UI | Cloud Azure| Docker & Virtualização & IA</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eduardoanfer&label=Visitas&color=blue&style=flat" alt="visitas" />
@@ -9,13 +9,14 @@
 
 ## 🧑‍💻 Sobre mim
 
-Engenheiro de Software e Desenvolvedor Full Stack com 5 anos de experiência no desenvolvimento de aplicações web completas. Sou especializado em tecnologias modernas (Angular, C#, Node.js, Python) e na integração de soluções de IA com bancos de dados vetoriais (Qdrant). Tenho domínio em Docker, CI/CD, bancos SQL/NoSQL, testes automatizados e práticas de arquitetura e código limpo. Foco em trabalho em equipe, metodologias ágeis e no desenvolvimento de produtos escaláveis de alto impacto.
+Engenheiro de Software e Desenvolvedor Full Stack com 5 anos de experiência no desenvolvimento de aplicações web completas. Sou especializado em tecnologias modernas (Angular, C#, Node.js, Python, Php) e na integração de soluções de IA com bancos de dados vetoriais (Qdrant). Tenho domínio em Docker, CI/CD, bancos SQL/NoSQL, testes automatizados e práticas de arquitetura e código limpo. Foco em trabalho em equipe, metodologias ágeis e no desenvolvimento de produtos escaláveis de alto impacto.
 
 - 🔭 Atualmente na **Deepstack**, atuando como Full Stack e Scrum Master
 - 🤖 Trabalho com **IA aplicada**: bancos vetoriais, fine-tuning, automações com n8n e Dify
 - 🌱 Estudando arquiteturas de **RAG** (Classic, Graph e Agentic) e **Azure**
-- 🎓 Recém-formado em **MBA (Pós-graduação Lato Sensu)** pela Uniminas EAD e finalizando Engenharia de Software na Anhanguera
-- 📍 Itapema, SC, Brasil · Presencial/Híbrido
+- 🎓 Recém-formado em **MBA (Pós-graduação Lato Sensu)** pela Uniminas EAD em Analise de Sistema e Cloud Computer
+- Formado em Engenharia de Software pela  Anhanguera
+- 📍 Ararangua, SC, Brasil · Presencial/Híbrido e Remoto
 - 💼 Aberto a novas oportunidades
 
 ---
